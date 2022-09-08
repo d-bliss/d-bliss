@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-bliss
 - 👀 I’m interested in learning programming, freediving, and contributing to community. 
-- 🌱 I’m currently learning html, css, and javascrips.
+- 🌱 I’m currently learning html, css, and javascript.
 - 📫 You can reach me on Twitter at @DANNYBLISS
 
 <!---
