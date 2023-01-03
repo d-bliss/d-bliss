@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">An especially gifted napper from Canada :canada:</h3>
+<h3 align="center">Digital Craftsman from Canada :canada:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-bliss&label=Profile%20views&color=0e75b6&style=flat" alt="d-bliss" /> </p>
 
