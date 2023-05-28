@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-bliss&label=Profile%20views&color=0e75b6&style=flat" alt="d-bliss" /> </p>
 
 
-- 🌱 I’m currently learning html, css, python and javascript.
+- 🌱 I’m currently learning python, javascript frameworks, and how to customize LLM's. 
 
 - 👀 I’m interested in programming, freediving, and contributing to open source communities.
 
