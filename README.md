@@ -40,3 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-bliss&show_icons=true&locale=en&layout=compact" alt="d-bliss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-bliss&" alt="d-bliss" /></p>
+
+![Snake animation](https://github.com/d-bliss/github-readme/blob/output/github-contribution-snake.svg)
+
