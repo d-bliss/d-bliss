@@ -37,9 +37,10 @@
 
 [![Bliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-bliss&hide=stars&show_icons=true&rank_icon=github)](https://github.com/d-bliss/github-readme-stats)
 
+#### My GitHub Contributions in the last year 🐍
+![Snake animation](https://github.com/d-bliss/github-readme/blob/output/github-contribution-snake.svg)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-bliss&show_icons=true&locale=en&layout=compact" alt="d-bliss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-bliss&" alt="d-bliss" /></p>
-
-![Snake animation](https://github.com/d-bliss/github-readme/blob/output/github-contribution-snake.svg)
 
