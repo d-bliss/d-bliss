@@ -29,7 +29,7 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" alt="vercel" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="pinecone" width="40" height="40"/> </a>
-<a href="https://langchain.io" target="_blank" rel="noreferrer">
+<a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hevtyfb5n5huqafmexo6" alt="langchain" width="40" height="40"/> </a> 
 </p>
 
